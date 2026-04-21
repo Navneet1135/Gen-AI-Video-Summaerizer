@@ -12,7 +12,7 @@ Turn any YouTube video into a concise summary using AI.
 
 ## 📸 Screenshot
 
-[![App Screenshot](App_Screenshot.png)](App Screenshot.png)
+![App Screenshot](app_screenshot.png)
 
 ---
 
