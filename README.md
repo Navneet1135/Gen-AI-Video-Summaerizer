@@ -42,8 +42,8 @@ It works by:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Navneet1135/Gen-AI-Video-Summaerizer.git
+cd Gen-AI-Video-Summaerizer
 
 pip install -r requirements.txt
 ```
